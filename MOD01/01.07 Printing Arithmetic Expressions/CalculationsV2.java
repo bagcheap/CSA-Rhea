@@ -4,10 +4,10 @@
  * multiplication, division, and modulus operations on integers and
  * decimals.
  *  
- * @ author APCS Team
- * @ version 2020
+ * @ author Rhea Bagchee
+ * @ version 2024-06-02
  */
-public class CalculationsV1
+public class CalculationsV2
 {
     public static void main(String[ ] args)
     {
