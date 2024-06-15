@@ -42,9 +42,17 @@ public class CalculationsV2
         System.out.println();
         
         // 1.08 Additional int Equations
+        System.out.println("Mixed Equations");
+        System.out.println( "14 % 6 + 12/3 - 2^2 = " + (14 % 6 + 12/3 - 2^2) );
+        System.out.println("10 * 2 + 20/5 - 6 - 3^3 = " + (10 * 2 + 20/5 - 6 - 3*3) );
+        System.out.println();
         
         
-        // 1.09 Additional double Equations
+        // 1.09 Additional mixed double Equations
+        System.out.println("Mixed double Equations");
+        System.out.println( "14.4d % 6.2 + 12.2d/3.1 - 2.3^2 = " + (14.4d % 6.2 + 12.2d/3.1 - 2.02d*2) );
+        System.out.println("100.0004d * 2.2d + 20.1d/5.00000005d - 6.6 - 3.333d^3 = " + (100.0004d * 2.2d + 20.1d/5.00000005d - 6.6 - 3.333d*3) );
+        System.out.println();
         
                
     } // end of main method
