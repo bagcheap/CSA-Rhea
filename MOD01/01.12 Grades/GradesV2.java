@@ -29,10 +29,8 @@ public class GradesV2 {
         average = (double) totalPoints / numTests;
 
         // print results
-        System.out.print("Test #: " + numTests);
-        System.out.print("\tTest Grade: " + testGrade);
-        System.out.print("\tTotal points: " + totalPoints);
-        System.out.println("\tAverage Score: " + average);
+        System.out.println("Test #" + numTests + "; \tScore: " + testGrade
+                + "; \tTotal Points: " + totalPoints + "; \tAverage Score: " + average);
 
         // Test #2; score 73
         numTests++;
@@ -42,10 +40,8 @@ public class GradesV2 {
         average = (double) totalPoints / numTests;
 
         // print results
-        System.out.print("Test #: " + numTests);
-        System.out.print("\tTest Grade: " + testGrade);
-        System.out.print("\tTotal points: " + totalPoints);
-        System.out.println("\tAverage Score: " + average);
+        System.out.println("Test #" + numTests + "; \tScore: " + testGrade
+                + "; \tTotal Points: " + totalPoints + "; \tAverage Score: " + average);
 
         // Test #3; score 91
         numTests++;
@@ -55,10 +51,8 @@ public class GradesV2 {
         average = (double) totalPoints / numTests;
 
         // print results
-        System.out.print("Test #: " + numTests);
-        System.out.print("\tTest Grade: " + testGrade);
-        System.out.print("\tTotal points: " + totalPoints);
-        System.out.println("\tAverage Score: " + average);
+        System.out.println("Test #" + numTests + "; \tScore: " + testGrade
+                + "; \tTotal Points: " + totalPoints + "; \tAverage Score: " + average);
 
         // Test #4; score 82
         numTests++;
@@ -68,10 +62,62 @@ public class GradesV2 {
         average = (double) totalPoints / numTests;
 
         // print results
-        System.out.print("Test #: " + numTests);
-        System.out.print("\tTest Grade: " + testGrade);
-        System.out.print("\tTotal points: " + totalPoints);
-        System.out.println("\tAverage Score: " + average);
+        System.out.println("Test #" + numTests + "; \tScore: " + testGrade
+                + "; \tTotal Points: " + totalPoints + "; \tAverage Score: " + average);
 
+        // Test #5; score 78
+        numTests++;
+        testGrade = 78;
+        totalPoints += testGrade;
+
+        average = (double) totalPoints / numTests;
+
+        // print results
+        System.out.println("Test #" + numTests + "; \tScore: " + testGrade
+                + "; \tTotal Points: " + totalPoints + "; \tAverage Score: " + average);
+
+        // Test #6; score 92
+        numTests++;
+        testGrade = 92;
+        totalPoints += testGrade;
+
+        average = (double) totalPoints / numTests;
+
+        // print results
+        System.out.println("Test #" + numTests + "; \tScore: " + testGrade
+                + "; \tTotal Points: " + totalPoints + "; \tAverage Score: " + average);
+
+        // Test #7; score 87
+        numTests++;
+        testGrade = 87;
+        totalPoints += testGrade;
+
+        average = (double) totalPoints / numTests;
+
+        // print results
+        System.out.println("Test #" + numTests + "; \tScore: " + testGrade
+                + "; \tTotal Points: " + totalPoints + "; \tAverage Score: " + average);
+
+        // Test #8; score 98
+        numTests++;
+        testGrade = 98;
+        totalPoints += testGrade;
+
+        average = (double) totalPoints / numTests;
+
+        // print results
+        System.out.println("Test #" + numTests + "; \tScore: " + testGrade
+                + "; \tTotal Points: " + totalPoints + "; \tAverage Score: " + average);
+
+        // Test #9; score 75
+        numTests++;
+        testGrade = 75;
+        totalPoints += testGrade;
+
+        average = (double) totalPoints / numTests;
+
+        // print results
+        System.out.println("Test #" + numTests + "; \tScore: " + testGrade
+                + "; \tTotal Points: " + totalPoints + "; \tAverage Score: " + average);
     }
 }
