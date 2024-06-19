@@ -47,12 +47,12 @@ public class MixedTypes
         
         // Addition with variables of same type: int
         // Remove the comments around this code when ready to run.   
-        /*System.out.println("Addition of two ints");
+        System.out.println("Addition of two ints");
         iSum = iX + iY;
         System.out.print(iX + " + " + iY + " = ");
         System.out.println(iSum);
         System.out.println();
-        */
+        
         
         // Addition with variables of same type: double
         // Remove the comments around this code when ready to run.   

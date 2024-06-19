@@ -32,7 +32,7 @@ public class StudentInfoCard {
         System.out.println("Availability: " + "M-F 09:00-17:00");
         System.out.println("Email: " + "rbagchee@gmail.com\n");
 
-        System.out.println("Highest Math Course Taken: " + "AP Algebra 1\n");
+        System.out.println("Highest Math Course Taken: " + "IB Mathematics AA\n");
 
         System.out.println("\nComputer Experience:");
         System.out.println("1. Programming in Scratch-MIT (Gold Medal Winner in Science Olympiad Code Challenge)");
